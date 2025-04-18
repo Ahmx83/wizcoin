@@ -4,5 +4,5 @@ def spam():
     print("spam")
 
 
-def bacon():
-    print("i Love bacon")
+def cheese():
+    print("i Love cheese")
